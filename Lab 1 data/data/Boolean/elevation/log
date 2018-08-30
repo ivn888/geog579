@@ -1,0 +1,1 @@
+201209081607   0     1     0fei C:\Pleasant_HandBookofGIS\579\Boolean\elevation = SELECTMASK(C:\Pleasant_HandBookofGIS\data\dem.asc, C:\Users\fei\Documents\ArcGIS\Default.gdb\SetNull_asc1)

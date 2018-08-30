@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KnowledgeBase>
+  <SoilType Name="1Basco">
+   <Instances>
+    <Instance Name="instance1">
+     <Rule Name="slope" UseOrNot="true" Type="Range" DataLayer="Slope"><CurveType>Z-shape</CurveType><KeyValue>-9999.000000,-9999.000000,0.150000,0.200000</KeyValue></Rule>
+    </Instance>
+   </Instances>
+   <Occurrences>
+   </Occurrences>
+   <Exclusions>
+   </Exclusions>
+  </SoilType>
+  <SoilType Name="2Elkmound">
+   <Instances>
+    <Instance Name="instance2">
+     <Rule Name="Slope" UseOrNot="true" Type="Range" DataLayer="Slope"><CurveType>S-shape</CurveType><KeyValue>0.200000,0.250000,-9999.000000,-9999.000000</KeyValue></Rule>
+     <Rule Name="elevation" UseOrNot="true" Type="Range" DataLayer="Elevation"><CurveType>Bell-shape</CurveType><KeyValue>760.000000,870.000000,870.000000,980.000000</KeyValue></Rule>
+     <Rule Name="profile" UseOrNot="true" Type="Range" DataLayer="ProfileCurvature"><CurveType>Bell-shape</CurveType><KeyValue>-0.000800,0.000000,0.000300,0.003000</KeyValue></Rule>
+    </Instance>
+   </Instances>
+   <Occurrences>
+   </Occurrences>
+   <Exclusions>
+   </Exclusions>
+  </SoilType>
+  <SoilType Name="3Council">
+   <Instances>
+   </Instances>
+   <Occurrences>
+   </Occurrences>
+   <Exclusions>
+   </Exclusions>
+  </SoilType>
+  <SoilType Name="4Orion">
+   <Instances>
+   </Instances>
+   <Occurrences>
+   </Occurrences>
+   <Exclusions>
+   </Exclusions>
+  </SoilType>
+ </KnowledgeBase>

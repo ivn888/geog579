@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20120908</CreaDate><CreaTime>16072100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20120908" Time="160721">ExtractByMask dem.asc SetNull_asc1 C:\Pleasant_HandBookofGIS\579\Boolean\elevation</Process></lineage></DataProperties></Esri></metadata>
